@@ -5,7 +5,7 @@
     font-family: 'Nunito', sans-serif;
 }
 
-.caixa-principal {
+#caixa-principal {
     height: 100vh;
     width: 100%;
     background-image: url(./img/background.png);
@@ -45,12 +45,12 @@ li:hover {
     transition: 0.5s;
 }
 
-.noan {
+#noan {
     position: absolute;
     top: 45%;
     left: 10%;
 }
-.yng a {
+#yng a {
     background-color: #f9004d;
     color: #ffffff;
     padding: 10px 20px;
@@ -68,8 +68,7 @@ h1 {
 h1 span {
     color: #f9004d;
 }
-
-.noan h3 {
+#noan h3 {
     color: #ffffff;
     font-family: 10px;
 }
@@ -122,13 +121,13 @@ section div button:hover {
     cursor: pointer;
 }
 
-.milhonario {
+#milhonario {
     background-color: #191919;
     padding-top: 50px;
     padding-bottom: 100px;
 }
 
-.milhonario h2 {
+#milhonario h2 {
     color: #ffffff;
     font-size: 35px;
     text-align: center;
